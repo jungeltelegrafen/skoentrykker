@@ -1,0 +1,11 @@
+{
+  "name": "skoen-trykker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Finn ut hvor skoen trykker – og få små, konkrete grep for å få det litt bedre.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
